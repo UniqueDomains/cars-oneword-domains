@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cars one-word domains from Unique
 
 **Public extract:** 9,887 rows · **Live catalog:** 9,887 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/cars`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | sheraton.cars   | premium   | —         | —             | 52             | 84     | 8      | —         |
 | ace.cars        | available | $2,950    | —             | 88             | 57     | 3      | namecheap |
 | authentic.cars  | premium   | —         | —             | 76             | 83     | 9      | —         |
-| data.cars       | available | $2,950    | —             | 70             | 56     | 4      | namecheap |
+| live.cars       | available | $2,950    | —             | 108            | 56     | 4      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
