@@ -77,11 +77,11 @@ print(df.head())
 | swift.cars      | premium   | —         | —             | 68             | 85     | 5      | —         |
 | enterprise.cars | available | $2,950    | —             | 68             | 61     | 10     | namecheap |
 | chase.cars      | premium   | —         | —             | 66             | 85     | 5      | —         |
-| free.cars       | available | $2,950    | —             | 88             | 59     | 4      | namecheap |
-| Nokia.cars      | premium   | —         | —             | 88             | 84     | 5      | —         |
 | cloud.cars      | available | $2,950    | —             | 70             | 59     | 5      | namecheap |
-| sheraton.cars   | premium   | —         | —             | 52             | 84     | 8      | —         |
+| Nokia.cars      | premium   | —         | —             | 88             | 84     | 5      | —         |
 | ace.cars        | available | $2,950    | —             | 88             | 57     | 3      | namecheap |
+| sheraton.cars   | premium   | —         | —             | 52             | 84     | 8      | —         |
+| free.cars       | available | $2,950    | —             | 88             | 57     | 4      | namecheap |
 | authentic.cars  | premium   | —         | —             | 76             | 83     | 9      | —         |
 | live.cars       | available | $2,950    | —             | 108            | 56     | 4      | namecheap |
 
