@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .cars one-word domains from Unique
 
 **Public extract:** 9,887 rows · **Live catalog:** 9,887 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/cars`  
 **Best for:** founders, investors, studios
 
@@ -74,11 +74,11 @@ print(df.head())
 | power.cars      | available | $2,950    | —             | 98             | 62     | 5      | namecheap |
 | ally.cars       | premium   | —         | —             | 68             | 85     | 4      | —         |
 | seventeen.cars  | available | $2,950    | —             | 84             | 62     | 9      | namecheap |
-| swift.cars      | premium   | —         | —             | 68             | 85     | 5      | —         |
-| enterprise.cars | available | $2,950    | —             | 68             | 61     | 10     | namecheap |
 | chase.cars      | premium   | —         | —             | 66             | 85     | 5      | —         |
-| cloud.cars      | available | $2,950    | —             | 70             | 59     | 5      | namecheap |
+| enterprise.cars | available | $2,950    | —             | 68             | 61     | 10     | namecheap |
 | Nokia.cars      | premium   | —         | —             | 88             | 84     | 5      | —         |
+| cloud.cars      | available | $2,950    | —             | 70             | 59     | 5      | namecheap |
+| swift.cars      | premium   | —         | —             | 68             | 84     | 5      | —         |
 | ace.cars        | available | $2,950    | —             | 88             | 57     | 3      | namecheap |
 | sheraton.cars   | premium   | —         | —             | 52             | 84     | 8      | —         |
 | free.cars       | available | $2,950    | —             | 88             | 57     | 4      | namecheap |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
