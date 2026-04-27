@@ -1,22 +1,22 @@
-# Available .CARS One-Word Domains (9,887)
+# Available .CARS One-Word Domains (12,716)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C887%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C887%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C716%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .cars one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .cars one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,716 domains** on the canonical page below.
 
-**Public extract:** 9,887 rows · **Live catalog:** 9,887 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,716 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/cars`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CARS one-word domain 
 
 ### Files
 
-- `cars.csv` — public CSV extract (9,887 rows)
-- `cars.json` — public JSON extract (9,887 rows)
+- `cars.csv` — public CSV extract (1,000 rows)
+- `cars.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| converse.cars   | available | $2,950    | —             | 64             | 73     | 8      | namecheap |
-| easy.cars       | resell    | —         | —             | 128            | 68     | 4      | Namecheap |
-| can.cars        | premium   | —         | —             | 68             | 98     | 3      | —         |
-| nationwide.cars | available | $2,950    | —             | 76             | 66     | 10     | namecheap |
-| indeed.cars     | premium   | —         | —             | 94             | 85     | 6      | —         |
-| line.cars       | available | $2,950    | —             | 74             | 65     | 4      | namecheap |
-| AOL.cars        | premium   | —         | —             | 86             | 85     | 3      | —         |
-| power.cars      | available | $2,950    | —             | 98             | 62     | 5      | namecheap |
-| ally.cars       | premium   | —         | —             | 68             | 85     | 4      | —         |
-| seventeen.cars  | available | $2,950    | —             | 84             | 62     | 9      | namecheap |
-| chase.cars      | premium   | —         | —             | 66             | 85     | 5      | —         |
-| enterprise.cars | available | $2,950    | —             | 68             | 61     | 10     | namecheap |
-| Nokia.cars      | premium   | —         | —             | 88             | 84     | 5      | —         |
-| cloud.cars      | available | $2,950    | —             | 70             | 59     | 5      | namecheap |
-| swift.cars      | premium   | —         | —             | 68             | 84     | 5      | —         |
-| ace.cars        | available | $2,950    | —             | 88             | 57     | 3      | namecheap |
-| sheraton.cars   | premium   | —         | —             | 52             | 84     | 8      | —         |
-| free.cars       | available | $2,950    | —             | 88             | 57     | 4      | namecheap |
-| authentic.cars  | premium   | —         | —             | 76             | 83     | 9      | —         |
-| live.cars       | available | $2,950    | —             | 108            | 56     | 4      | namecheap |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| insight.cars   | available | $2,950    | —             | 76             | 69     | 8      | namecheap |
+| makers.cars    | available | $1,999.99 | $2,199        | 62             | 67     | 6      | namesilo  |
+| agents.cars    | available | $2,950    | —             | 56             | 50     | 6      | namecheap |
+| skills.cars    | available | $2,950    | —             | 58             | 47     | 6      | namecheap |
+| jobs.cars      | available | $2,950    | —             | 79             | 42     | 4      | namecheap |
+| coins.cars     | available | $2,950    | —             | 56             | 41     | 5      | namecheap |
+| Tools.cars     | available | $2,950    | —             | 56             | 40     | 5      | namecheap |
+| justin.cars    | available | $2,950    | —             | 58             | 38     | 7      | namecheap |
+| etc.cars       | available | $2,950    | —             | 58             | 34     | 3      | namecheap |
+| payments.cars  | available | $2,950    | —             | 58             | 33     | 8      | namecheap |
+| teams.cars     | available | $2,950    | —             | 62             | 32     | 5      | namecheap |
+| maps.cars      | available | $2,950    | —             | 56             | 31     | 4      | namecheap |
+| solutions.cars | available | $2,950    | —             | 56             | 31     | 9      | namecheap |
+| rewards.cars   | available | $1,999.99 | $2,199        | 62             | 30     | 7      | namesilo  |
+| spaces.cars    | available | $2,950    | —             | 54             | 30     | 6      | namecheap |
+| videos.cars    | available | $2,950    | —             | 52             | 30     | 6      | namecheap |
+| SanDiego.cars  | available | $1,999.99 | $2,199        | 74             | 29     | 9      | namesilo  |
+| heroes.cars    | available | $2,950    | —             | 68             | 29     | 6      | namecheap |
+| blocks.cars    | available | $2,950    | —             | 53             | 29     | 6      | namecheap |
+| cams.cars      | available | $1,999.99 | $2,199        | 52             | 29     | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,887-row public sample | 9,887 live domains                               |
+| 1,000-row public sample | 12,716 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
