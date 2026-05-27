@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cars one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,885 domains · **Median ask:** $2,769.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/cars`  
 **Best for:** founders, investors, studios
 
@@ -72,9 +72,9 @@ print(df.head())
 | coins.cars     | available | $2,950    | —             | 56             | 41     | 5      | namecheap |
 | Tools.cars     | available | $2,950    | —             | 56             | 40     | 5      | namecheap |
 | justin.cars    | available | $2,950    | —             | 58             | 38     | 7      | namecheap |
-| etc.cars       | available | $2,950    | —             | 58             | 34     | 3      | namecheap |
 | payments.cars  | available | $2,950    | —             | 58             | 33     | 8      | namecheap |
 | teams.cars     | available | $2,950    | —             | 62             | 32     | 5      | namecheap |
+| etc.cars       | available | $2,950    | —             | 58             | 32     | 3      | namecheap |
 | maps.cars      | available | $2,950    | —             | 56             | 31     | 4      | namecheap |
 | solutions.cars | available | $2,950    | —             | 56             | 31     | 9      | namecheap |
 | rewards.cars   | available | $1,999.99 | $2,199        | 62             | 30     | 7      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
