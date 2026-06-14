@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .cars one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,885 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,885 domains · **Median ask:** $2,769.69 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,885 domains · **Median ask:** $2,244.15 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/cars`  
+**Last updated:** 2026-06-14
+**Canonical page:** `https://unique.domains/domains/tld/cars`
 **Best for:** founders, investors, studios
 
 ---
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| insight.cars   | available | $2,950    | —             | 76             | 69     | 8      | namecheap |
-| makers.cars    | available | $1,999.99 | $2,199        | 62             | 67     | 6      | namesilo  |
-| agents.cars    | available | $2,950    | —             | 56             | 50     | 6      | namecheap |
-| skills.cars    | available | $2,950    | —             | 58             | 47     | 6      | namecheap |
-| jobs.cars      | available | $2,950    | —             | 79             | 42     | 4      | namecheap |
-| coins.cars     | available | $2,950    | —             | 56             | 41     | 5      | namecheap |
-| Tools.cars     | available | $2,950    | —             | 56             | 40     | 5      | namecheap |
-| justin.cars    | available | $2,950    | —             | 58             | 38     | 7      | namecheap |
-| payments.cars  | available | $2,950    | —             | 58             | 33     | 8      | namecheap |
-| teams.cars     | available | $2,950    | —             | 62             | 32     | 5      | namecheap |
-| etc.cars       | available | $2,950    | —             | 58             | 32     | 3      | namecheap |
-| maps.cars      | available | $2,950    | —             | 56             | 31     | 4      | namecheap |
-| solutions.cars | available | $2,950    | —             | 56             | 31     | 9      | namecheap |
-| rewards.cars   | available | $1,999.99 | $2,199        | 62             | 30     | 7      | namesilo  |
-| spaces.cars    | available | $2,950    | —             | 54             | 30     | 6      | namecheap |
-| videos.cars    | available | $2,950    | —             | 52             | 30     | 6      | namecheap |
-| SanDiego.cars  | available | $1,999.99 | $2,199        | 74             | 29     | 9      | namesilo  |
-| heroes.cars    | available | $2,950    | —             | 68             | 29     | 6      | namecheap |
-| blocks.cars    | available | $2,950    | —             | 53             | 29     | 6      | namecheap |
-| cams.cars      | available | $1,999.99 | $2,199        | 52             | 29     | 4      | namesilo  |
+| swift.cars     | available | $1,999.99 | $2,199        | 68             | 84     | 5      | namesilo  |
+| ape.cars       | premium   | —         | —             | 64             | 39     | 3      | —         |
+| orange.cars    | available | $1,999.99 | $2,199        | 74             | 83     | 6      | namesilo  |
+| crush.cars     | premium   | —         | —             | 76             | 31     | 5      | —         |
+| sheraton.cars  | available | $1,999.99 | $2,199        | 52             | 83     | 8      | namesilo  |
+| swell.cars     | premium   | —         | —             | 110            | 28     | 5      | —         |
+| Minecraft.cars | available | $2,950    | —             | 87             | 82     | 9      | namecheap |
+| cypher.cars    | premium   | —         | —             | 58             | 28     | 6      | —         |
+| morgan.cars    | available | $2,950    | —             | 64             | 82     | 6      | namecheap |
+| alto.cars      | premium   | —         | —             | 56             | 28     | 4      | —         |
+| axle.cars      | available | $1,999.99 | $2,199        | 74             | 81     | 4      | namesilo  |
+| groovy.cars    | premium   | —         | —             | 88             | 26     | 6      | —         |
+| mint.cars      | available | $1,999.99 | $2,199        | 72             | 79     | 4      | namesilo  |
+| ample.cars     | premium   | —         | —             | 60             | 20     | 5      | —         |
+| name.cars      | available | $1,999.99 | $2,199        | 82             | 75     | 4      | namesilo  |
+| crack.cars     | premium   | —         | —             | 100            | 19     | 5      | —         |
+| boss.cars      | available | $1,999.99 | $2,199        | 76             | 74     | 4      | namesilo  |
+| ardent.cars    | premium   | —         | —             | 66             | 19     | 6      | —         |
+| matt.cars      | available | $1,999.99 | $2,199        | 72             | 71     | 4      | namesilo  |
+| angry.cars     | premium   | —         | —             | 72             | 18     | 5      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
