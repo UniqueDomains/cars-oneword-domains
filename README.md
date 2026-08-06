@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .cars one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,885 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,885 domains · **Median ask:** $2,244.15 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,885 domains · **Median ask:** $2,214.61 · **High-demand under $2,500:** 56
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/cars`
 **Best for:** founders, investors, studios
 
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CARS one-word domain 
 
 ### Files
 
-- `cars.csv` — public CSV extract (1,000 rows)
-- `cars.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `cars.csv`, public CSV extract (1,000 rows)
+- `cars.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| swift.cars     | available | $1,999.99 | $2,199        | 68             | 84     | 5      | namesilo  |
-| ape.cars       | premium   | —         | —             | 64             | 39     | 3      | —         |
-| orange.cars    | available | $1,999.99 | $2,199        | 74             | 83     | 6      | namesilo  |
-| crush.cars     | premium   | —         | —             | 76             | 31     | 5      | —         |
-| sheraton.cars  | available | $1,999.99 | $2,199        | 52             | 83     | 8      | namesilo  |
-| swell.cars     | premium   | —         | —             | 110            | 28     | 5      | —         |
-| Minecraft.cars | available | $2,950    | —             | 87             | 82     | 9      | namecheap |
-| cypher.cars    | premium   | —         | —             | 58             | 28     | 6      | —         |
-| morgan.cars    | available | $2,950    | —             | 64             | 82     | 6      | namecheap |
-| alto.cars      | premium   | —         | —             | 56             | 28     | 4      | —         |
-| axle.cars      | available | $1,999.99 | $2,199        | 74             | 81     | 4      | namesilo  |
-| groovy.cars    | premium   | —         | —             | 88             | 26     | 6      | —         |
-| mint.cars      | available | $1,999.99 | $2,199        | 72             | 79     | 4      | namesilo  |
-| ample.cars     | premium   | —         | —             | 60             | 20     | 5      | —         |
-| name.cars      | available | $1,999.99 | $2,199        | 82             | 75     | 4      | namesilo  |
-| crack.cars     | premium   | —         | —             | 100            | 19     | 5      | —         |
-| boss.cars      | available | $1,999.99 | $2,199        | 76             | 74     | 4      | namesilo  |
-| ardent.cars    | premium   | —         | —             | 66             | 19     | 6      | —         |
-| matt.cars      | available | $1,999.99 | $2,199        | 72             | 71     | 4      | namesilo  |
-| angry.cars     | premium   | —         | —             | 72             | 18     | 5      | —         |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ada.cars | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
+| ago.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| ape.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| ask.cars | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| Ava.cars | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| bag.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| bob.cars | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| bud.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| bus.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| but.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| cue.cars | available | $2,950    | —             | medium         | low    | 3      | namecheap |
+| dot.cars | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| err.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| eye.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| fat.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| had.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| hat.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| him.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| hug.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| jot.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,885 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 56 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all single-word names on the .cars extension. The set includes literal terms, broad dictionary words, geo terms, and more abstract brandables such as wow.cars or sense.cars. That mix matters. Founders should favor words that are easy to say, easy to remember, and clearly relevant to an automotive business or campaign. Investors should look harder at resale realism, because .cars is niche and buyer depth is narrower than mainstream extensions. With a median ask of 2,769.69, the key question is whether a word has enough commercial relevance to justify both acquisition price and ongoing renewal exposure.
+This is a list of one-word .cars domain names that are currently available to own. Names range from short industry terms to compound brandable words like solarpower.cars and windowshop.cars. Pricing clusters tightly: most names sit between $500 and $2,000, with a smaller group priced $2,000 to $5,000 and a median ask of about $2,214. Demand signals are concentrated at the low end across the set, so a handful of names with mid-to-high demand stand out as comparatively scarce. Because .cars is a non-mainstream TLD, most of these domains also carry higher-than-typical renewal costs, which is worth factoring into any long-term hold or launch decision.
 
-- Prioritize words with clear automotive fit or buyer relevance
-- Broad words can brand well, but resale may be less predictable
-- Geo and exact-match terms can be strong if use case is obvious
-- Check ask price against renewal burden and naming flexibility
+- 12,885 available .cars domains, median ask $2,214
+- 71% priced $500–$2K; 22% priced $2K–$5K
+- 9,277 of these domains carry high renewal costs
+- Only 74 domains show mid-to-high demand signals
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-06-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
