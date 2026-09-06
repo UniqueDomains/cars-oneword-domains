@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cars one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,033 domains · **Median ask:** $2,135.18 · **High-demand under $2,500:** 72
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/cars`
 **Best for:** founders, investors, studios
 
@@ -67,6 +67,8 @@ print(df.head())
 | christmas.cars | available | $1,999.99 | $2,199        | high           | low    | 9      | namesilo  |
 | sorry.cars     | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo  |
 | beauty.cars    | available | $1,999.99 | $2,199        | high           | low    | 6      | namesilo  |
+| quiet.cars     | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo  |
+| what.cars      | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo  |
 | ada.cars       | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
 | ago.cars       | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
 | ape.cars       | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
@@ -82,8 +84,6 @@ print(df.head())
 | cue.cars       | available | $2,950    | —             | medium         | low    | 3      | namecheap |
 | dot.cars       | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
 | err.cars       | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| eye.cars       | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| fat.cars       | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
