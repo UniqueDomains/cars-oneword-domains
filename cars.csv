@@ -124,7 +124,7 @@ cb450253-e38d-44b0-946a-e16c174dbd90,firm.cars,available,1999.99,2199,high,low,4
 f6442661-3bab-4d67-adfd-a0e649d74526,cancer.cars,available,1999.99,2199,high,low,6,namesilo,,
 a15e53ed-5db3-46a4-aad5-763aae2632f2,Hans.cars,available,1999.99,2199,high,low,4,namesilo,,
 84fc4ed6-a291-4a2e-aeb8-5b37f6b18495,minor.cars,available,1999.99,2199,high,low,5,namesilo,,
-33046938-869f-46d5-9279-4f02eed39db6,capital.cars,available,1999.99,2199,medium,medium,7,namesilo,,
+33046938-869f-46d5-9279-4f02eed39db6,capital.cars,available,1999.99,2199,medium,low,7,namesilo,,
 445e8644-149b-46ec-a47d-e23065891c16,tracking.cars,available,1999.99,2199,medium,low,8,namesilo,,
 07f3f822-b8a8-4e8c-8eb9-29fd9c086021,ifnot.cars,available,1999.99,2199,medium,low,6,namesilo,,
 e813e44f-6554-434e-910c-b8baa7902cda,feature.cars,available,1999.99,2199,high,low,7,namesilo,,
