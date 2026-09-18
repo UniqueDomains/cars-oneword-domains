@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cars one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,070 domains · **Median ask:** $2,097.73 · **High-demand under $2,500:** 82
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/cars`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ada.cars | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
-| ago.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| ape.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| ask.cars | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
-| aug.cars | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
-| Ava.cars | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
-| azo.cars | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
-| bag.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| bob.cars | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
-| bud.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| bus.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| but.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| cue.cars | available | $2,950    | —             | medium         | low    | 3      | namecheap |
-| dot.cars | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
-| err.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| eye.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| fat.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| had.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
-| hat.cars | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
-| him.cars | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| christmas.cars | available | $1,999.99 | $2,199        | high           | low    | 9      | namesilo  |
+| sorry.cars     | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo  |
+| beauty.cars    | available | $1,999.99 | $2,199        | high           | low    | 6      | namesilo  |
+| quiet.cars     | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo  |
+| ada.cars       | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
+| ago.cars       | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| ape.cars       | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| ask.cars       | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| aug.cars       | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
+| Ava.cars       | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| azo.cars       | available | $1,999.99 | $2,199        | low            | low    | 3      | namesilo  |
+| bag.cars       | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
+| bob.cars       | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo  |
+| bud.cars       | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| bus.cars       | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| but.cars       | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| cue.cars       | available | $2,950    | —             | medium         | low    | 3      | namecheap |
+| dot.cars       | available | $1,999.99 | $2,199        | medium         | medium | 3      | namesilo  |
+| err.cars       | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo  |
+| eye.cars       | available | $1,999.99 | $2,199        | medium         | low    | 3      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CARS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
